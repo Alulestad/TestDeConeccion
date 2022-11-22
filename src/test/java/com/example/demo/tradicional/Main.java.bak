@@ -3,7 +3,7 @@ package com.example.demo.tradicional;
 public class Main {
 
 	public static void main(String[] args) {
-		// Tasdfsadfasdf
+		// TODO Auto-generated method stub
 		
 		PedidoComida p1 = new PedidoComida();
 
